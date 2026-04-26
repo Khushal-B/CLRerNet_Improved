@@ -186,6 +186,8 @@ This applies both the Geometric Endpoint Refinement and Adaptive Mask Width modu
 
 ## Results
 
+> All plots are present in the "plots/" folder
+
 ### Paper Reproduction
 
 The following results were obtained by running `tools/test.py` with the EMA model checkpoint. The reproduction is verified to fall within the paper's reported variance of 81.43 ± 0.14%.
