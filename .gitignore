@@ -1,0 +1,24 @@
+.idea
+checkpoints
+weights
+work_dirs/*
+!work_dirs/instruction.txt
+*.csv
+*.zip
+*.pyc
+.DS_Store
+
+# Ignore specific dataset folders
+dataset/culane/driver_37_30frame/
+dataset/culane/driver_100_30frame/
+dataset/culane/driver_193_90frame/
+
+# Ignore pretrained weights
+pretrained/dla34-ba72cf86.pth
+
+# Ignore model weights (these exceed GitHub limits)
+*.pth
+
+# Ignore Python caches
+__pycache__/
+*.pyc
