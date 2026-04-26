@@ -1,0 +1,4 @@
+This folder must have the dla34-ba72cf86.pth model which can be downloaded with:
+"wget -P pretrained/ https://github.com/Khushal-B/CLRerNet_Improved/releases/download/v0.1/dla34-ba72cf86.pth"
+
+More instructions present in README.md file
