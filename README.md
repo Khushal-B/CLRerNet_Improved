@@ -1,8 +1,10 @@
 # CLRerNet: Improving Confidence of Lane Detection with LaneIoU
+>Presented by:  Khushal Bhalia (CS25MTECH14008)  
+>Course:        CS6450 Visual Computing, IIT Hyderabad  
+>Instructor:   Prof. Dr. C. Krishna Mohan  
+>TA:           Metta Rajesh Krishna  
 
-> **Course Project — CS6450 Visual Computing, IIT Hyderabad**
-> Presented by: Khushal Bhalia (CS25MTECH14008)
-> Based on: Honda & Uchida, WACV 2024
+Based on: Honda & Uchida, WACV 2024
 
 [![Paper](https://img.shields.io/badge/Paper-WACV%202024-blue)](https://openaccess.thecvf.com/content/WACV2024/html/Honda_CLRerNet_Improving_Confidence_of_Lane_Detection_With_LaneIoU_WACV_2024_paper.html)
 [![GitHub](https://img.shields.io/badge/GitHub-CLRerNet__Improved-green)](https://github.com/Khushal-B/CLRerNet_Improved)
